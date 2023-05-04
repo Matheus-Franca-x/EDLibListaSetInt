@@ -1,4 +1,4 @@
-package model;
+package matheus.SetListaInt;
 
 public interface ILista {
 

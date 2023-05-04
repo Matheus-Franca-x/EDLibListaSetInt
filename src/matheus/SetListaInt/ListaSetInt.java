@@ -1,4 +1,4 @@
-package model;
+package matheus.SetListaInt;
 
 import javax.swing.JOptionPane;
 
